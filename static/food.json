@@ -1,0 +1,214 @@
+ [
+      {
+        "name": "Мармелад фруктовый",
+        "calories": 320,
+        "proteins": 0.1,
+        "fats": 0.0,
+        "carbs": 79.4
+      },
+      {
+        "name": "Пастила яблочная",
+        "calories": 290,
+        "proteins": 0.5,
+        "fats": 0.0,
+        "carbs": 72.0
+      },
+      {
+        "name": "Леденцы \"Барбарис\"",
+        "calories": 380,
+        "proteins": 0.0,
+        "fats": 0.1,
+        "carbs": 94.5
+      },
+      {
+        "name": "Халва подсолнечная",
+        "calories": 516,
+        "proteins": 11.6,
+        "fats": 29.7,
+        "carbs": 54.0
+      },
+      {
+        "name": "Зефир бело-розовый",
+        "calories": 326,
+        "proteins": 0.8,
+        "fats": 0.1,
+        "carbs": 79.8
+      },
+      {
+        "name": "Пряник тульский",
+        "calories": 364,
+        "proteins": 5.8,
+        "fats": 6.5,
+        "carbs": 71.6
+      },
+      {
+        "name": "Шоколад молочный \"Алёнка\"",
+        "calories": 550,
+        "proteins": 6.9,
+        "fats": 35.7,
+        "carbs": 52.4
+      },
+      {
+        "name": "Вафли с начинкой",
+        "calories": 530,
+        "proteins": 3.2,
+        "fats": 29.8,
+        "carbs": 62.6
+      },
+      {
+        "name": "Козинаки подсолнечные из семечек",
+        "calories": 532,
+        "proteins": 11.6,
+        "fats": 32.7,
+        "carbs": 45.2
+      },
+      {
+        "name": "Печенье \"Юбилейное\"",
+        "calories": 463,
+        "proteins": 6.5,
+        "fats": 19.8,
+        "carbs": 65.0
+      },
+      {
+        "name": "Конфеты \"Коровка\"",
+        "calories": 351,
+        "proteins": 2.2,
+        "fats": 4.6,
+        "carbs": 76.6
+      },
+      {
+        "name": "Щербет арахисовый",
+        "calories": 500,
+        "proteins": 7.6,
+        "fats": 25.0,
+        "carbs": 60.0
+      },
+      {
+        "name": "Батончик \"Сникерс\"",
+        "calories": 488,
+        "proteins": 8.3,
+        "fats": 23.9,
+        "carbs": 60.2
+      },
+      {
+        "name": "Суфле \"Птичье молоко\"",
+        "calories": 299,
+        "proteins": 2.8,
+        "fats": 8.9,
+        "carbs": 53.0
+      },
+      {
+        "name": "Варенье клубничное",
+        "calories": 265,
+        "proteins": 0.3,
+        "fats": 0.1,
+        "carbs": 68.0
+      },
+
+          {
+            "name": "Пирожное \"Картошка\"",
+            "calories": 380,
+            "proteins": 4.5,
+            "fats": 15.2,
+            "carbs": 55.0
+          },
+          {
+            "name": "Конфеты \"Белочка\"",
+            "calories": 530,
+            "proteins": 9.0,
+            "fats": 32.0,
+            "carbs": 52.0
+          },
+          {
+            "name": "Печенье \"Овсяное\"",
+            "calories": 420,
+            "proteins": 6.5,
+            "fats": 15.0,
+            "carbs": 65.0
+          },
+          {
+            "name": "Маршмеллоу",
+            "calories": 318,
+            "proteins": 1.8,
+            "fats": 0.2,
+            "carbs": 81.0
+          },
+          {
+            "name": "Шоколад \"Горький 70%\"",
+            "calories": 546,
+            "proteins": 6.5,
+            "fats": 38.0,
+            "carbs": 48.0
+          },
+          {
+            "name": "Батончик \"Баунти\"",
+            "calories": 470,
+            "proteins": 3.5,
+            "fats": 25.0,
+            "carbs": 58.0
+          },
+          {
+            "name": "Пряник \"Мятный\"",
+            "calories": 350,
+            "proteins": 4.0,
+            "fats": 3.5,
+            "carbs": 75.0
+          },
+          {
+            "name": "Конфеты \"Мишка на Севере\"",
+            "calories": 540,
+            "proteins": 5.0,
+            "fats": 30.0,
+            "carbs": 60.0
+          },
+          {
+            "name": "Печенье \"Топленое молоко\"",
+            "calories": 490,
+            "proteins": 6.0,
+            "fats": 23.0,
+            "carbs": 65.0
+          },
+          {
+            "name": "Жевательный мармелад \"Haribo\"",
+            "calories": 340,
+            "proteins": 3.5,
+            "fats": 0.1,
+            "carbs": 82.0
+          },
+          {
+            "name": "Сгущенное молоко вареное",
+            "calories": 328,
+            "proteins": 7.2,
+            "fats": 8.5,
+            "carbs": 55.5
+          },
+          {
+            "name": "Конфеты \"Красный мак\"",
+            "calories": 460,
+            "proteins": 3.0,
+            "fats": 20.0,
+            "carbs": 65.0
+          },
+          {
+            "name": "Пончики глазированные",
+            "calories": 430,
+            "proteins": 5.5,
+            "fats": 22.0,
+            "carbs": 52.0
+          },
+          {
+            "name": "Печенье \"Курабье\"",
+            "calories": 510,
+            "proteins": 5.0,
+            "fats": 28.0,
+            "carbs": 60.0
+          },
+          {
+            "name": "Шоколадные конфеты \"Рафаэлло\"",
+            "calories": 623,
+            "proteins": 9.0,
+            "fats": 47.0,
+            "carbs": 39.0
+          }
+
+    ]
